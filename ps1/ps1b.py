@@ -1,8 +1,7 @@
 print('please input the starting annual salary(annual_salary):')
 annual_salary=float(input())
 print('please input The portion of salary to be saved (portion_saved):')
-#portion_saved=float(input())
-portion_saved=0.2344
+portion_saved=float(input())
 print("The cost of your dream home (total_cost):")
 total_cost=float(input())
 print('The semiannual salary raise (semi_annual_raise):')
